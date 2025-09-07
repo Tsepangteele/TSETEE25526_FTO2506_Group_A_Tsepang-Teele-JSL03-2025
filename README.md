@@ -1,10 +1,10 @@
-##Task Manager — Arrays & Objects using Vanilla Javascript##
+Task Manager — Arrays & Objects using Vanilla Javascript
 
 A lightweight task board for learning arrays, objects, prompts/alerts, filtering, and console logging.
 
 Users can add up to three tasks to an existing list; each task gets a unique incremental ID; and the console can show all tasks and completed tasks only.
 
-##✨ Features (based on brief)
+✨ Features (based on brief)
 
 Tasks stored as objects inside an array.
 
@@ -16,7 +16,7 @@ Collect title, description, status from the user.
 
 Filter to display only tasks with status === "done".
 
-##Clear, labeled console output of:
+Clear, labeled console output of:
 
 All tasks (entire array)
 
